@@ -1,1 +1,2 @@
-# companion-module-riedel-medianetwork
+# companion-module-riedel-medianetworks
+See HELP.md and LICENSE
